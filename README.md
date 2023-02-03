@@ -1,4 +1,5 @@
 # cookies-with-jwt-authentication
+Backend application
 
 step 1: use npm start to run the server in the terminal
 
